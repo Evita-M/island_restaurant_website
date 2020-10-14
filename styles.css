@@ -367,7 +367,7 @@ header {
 
 /*Perfect Blend*/
 .blend {
-    background: url("/images/perfect-blend.jpg") no-repeat center;
+    background: url("./images/perfect-blend.jpg") no-repeat center;
     background-size: cover;
 }
 
